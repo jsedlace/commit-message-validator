@@ -1,0 +1,18 @@
+{
+  "name": "commit-message-validator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@actions/core": "^1.2.4",
+    "@actions/github": "^2.2.0",
+    "git-raw-commits": "^2.0.7",
+    "jira-client": "^6.17.0"
+  }
+}
