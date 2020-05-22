@@ -1,0 +1,5 @@
+name: 'Commit Message Validator'
+description: 'Check that commit message contains JIRA issue'
+runs:
+  using: 'node12'
+  main: 'dist/index.js'
